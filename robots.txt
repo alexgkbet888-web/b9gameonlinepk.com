@@ -1,6 +1,7 @@
 ﻿User-agent: *
 Allow: /
-Sitemap: https://b9gameonlinepk.com/sitemap.xml
-Sitemap: https://b9gameonlinepk.com/feed.xml
-Host: https://b9gameonlinepk.com
+Sitemap: http://b9gameonlinepk.com/sitemap.xml
+Sitemap: http://b9gameonlinepk.com/feed.xml
+Host: http://b9gameonlinepk.com
+
 
