@@ -1,142 +1,157 @@
 ﻿[
     {
-        "title":  "About b9gameonlinepk.com | B9 Pakistan Guide Site",
-        "description":  "b9gameonlinepk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
-        "url":  "/about/"
+        "value":  [
+                      {
+                          "title":  "About b9gameonlinepk.com | B9 Pakistan Guide Site",
+                          "description":  "b9gameonlinepk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
+                          "url":  "/about/"
+                      },
+                      {
+                          "title":  "B9 Andar Bahar Pakistan | Live Card Game Guide",
+                          "description":  "B9 Andar Bahar Pakistan guide covering live card game basics and responsible play notes.",
+                          "url":  "/andar-bahar/"
+                      },
+                      {
+                          "title":  "B9 Aviator Pakistan | Game Basics and Risk Guide",
+                          "description":  "B9 Aviator Pakistan guide explaining basics, risk reminders and category navigation.",
+                          "url":  "/aviator/"
+                      },
+                      {
+                          "title":  "B9 Baccarat Pakistan | Live Casino Beginner Guide",
+                          "description":  "B9 Baccarat Pakistan live casino guide with table basics, responsible play and FAQ.",
+                          "url":  "/baccarat/"
+                      },
+                      {
+                          "title":  "Contact b9gameonlinepk.com | Support and Site Feedback",
+                          "description":  "Contact information for b9gameonlinepk.com with guidance for account support, site feedback and safe communication.",
+                          "url":  "/contact/"
+                      },
+                      {
+                          "title":  "B9 Cricket Pakistan | Sports Guide and Match Page SEO",
+                          "description":  "B9 Cricket Pakistan guide for sports category, match pages, odds explanation and responsible use.",
+                          "url":  "/cricket/"
+                      },
+                      {
+                          "title":  "B9 Dragon Tiger Pakistan | Live Game Basics",
+                          "description":  "B9 Dragon Tiger Pakistan guide for live game basics, table terms and responsible access.",
+                          "url":  "/dragon-tiger/"
+                      },
+                      {
+                          "title":  "b9gameonlinepk.com FAQ | B9 Pakistan Questions",
+                          "description":  "B9 Pakistan FAQ hub for b9gameonlinepk.com with registration, app, APK, wallet, support and safety questions.",
+                          "url":  "/faq/"
+                      },
+                      {
+                          "title":  "B9 Fishing Games Pakistan | Beginner Guide",
+                          "description":  "B9 Fishing Games Pakistan beginner guide covering mechanics, visual game index and responsible tips.",
+                          "url":  "/fishing/"
+                      },
+                      {
+                          "title":  "B9 Football Pakistan | Odds and Match Guide",
+                          "description":  "B9 Football Pakistan guide explaining football markets, 1x2 odds and match preview page structure.",
+                          "url":  "/football/"
+                      },
+                      {
+                          "title":  "b9gameonlinepk.com Guides | Complete B9 Pakistan Content Hub",
+                          "description":  "Complete B9 Pakistan guide index for b9gameonlinepk.com with account, app, APK, wallet, support and game topics.",
+                          "url":  "/guides/"
+                      },
+                      {
+                          "title":  "B9 Hot Games Pakistan | Trending Game Guide",
+                          "description":  "B9 Hot Games Pakistan guide for trending lobby categories, game basics and responsible play.",
+                          "url":  "/hot-games/"
+                      },
+                      {
+                          "title":  "B9 Live Casino Pakistan | Baccarat, Dragon Tiger and Andar Bahar",
+                          "description":  "B9 Live Casino Pakistan guide for baccarat, dragon tiger, andar bahar and live table basics.",
+                          "url":  "/live-casino/"
+                      },
+                      {
+                          "title":  "B9 Mines Pakistan | Beginner Rules and Safety Notes",
+                          "description":  "B9 Mines Pakistan beginner guide with rules overview, risk notes and related hot games.",
+                          "url":  "/mines/"
+                      },
+                      {
+                          "title":  "B9 Poker and Card Games Pakistan | Teen Patti and Cards",
+                          "description":  "B9 Poker and card games guide for Teen Patti, card rooms, rules and beginner basics.",
+                          "url":  "/poker/"
+                      },
+                      {
+                          "title":  "Privacy Policy | b9gameonlinepk.com",
+                          "description":  "Privacy policy for b9gameonlinepk.com explaining basic site logs, external registration links and no password collection.",
+                          "url":  "/privacy-policy/"
+                      },
+                      {
+                          "title":  "Responsible Access | b9gameonlinepk.com",
+                          "description":  "Responsible 18+ access guidance for b9gameonlinepk.com with safety reminders, risk notes and support direction.",
+                          "url":  "/responsible-access/"
+                      },
+                      {
+                          "title":  "B9 Slots Pakistan | Slot Game Guide",
+                          "description":  "B9 Slots Pakistan guide covering providers, themes, budget reminders and responsible play.",
+                          "url":  "/slots/"
+                      },
+                      {
+                          "title":  "B9 Sports Pakistan | Cricket and Football Odds Guide",
+                          "description":  "B9 Sports Pakistan guide for cricket, football, 1x2 odds and event preview pages.",
+                          "url":  "/sports/"
+                      },
+                      {
+                          "title":  "Terms of Use | b9gameonlinepk.com",
+                          "description":  "Terms of use for b9gameonlinepk.com covering informational content, 18+ access and external registration links.",
+                          "url":  "/terms/"
+                      },
+                      {
+                          "title":  "b9gameonlinepk.com Updates | B9 Pakistan Content Log",
+                          "description":  "Update log for b9gameonlinepk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
+                          "url":  "/updates/"
+                      },
+                      {
+                          "title":  "B9 Online Games Pakistan Today Check | Sports, Slots and Live Categories",
+                          "description":  "Daily B9 online games Pakistan check for sports, slots, live casino, fishing, poker and mobile category navigation.",
+                          "url":  "/today-games-check/"
+                      },
+                      {
+                          "title":  "B9 Cricket Match Guide Pakistan | Sports Category and H5 Notes",
+                          "description":  "B9 cricket match guide for Pakistan users covering sports category navigation, H5 access, match-page updates and responsible 18+ reminders.",
+                          "url":  "/cricket-match-guide/"
+                      },
+                      {
+                          "title":  "B9 Slots Games List Pakistan | Hot Games and Mobile Lobby Guide",
+                          "description":  "B9 slots games list Pakistan guide for hot games, slot category navigation, mobile lobby checks and responsible access.",
+                          "url":  "/slots-games-list/"
+                      },
+                      {
+                          "title":  "B9 Mobile Games H5 Pakistan | Browser Access and Category Guide",
+                          "description":  "B9 mobile games H5 Pakistan guide for browser access, category navigation, responsive layout and register path.",
+                          "url":  "/mobile-games-h5/"
+                      },
+                      {
+                          "title":  "B9 Cricket Sports H5 Pakistan | Mobile Category Guide",
+                          "description":  "B9 cricket sports H5 Pakistan guide for mobile category access, sports navigation, match-page freshness and responsible reminders.",
+                          "url":  "/cricket-sports-h5/"
+                      },
+                      {
+                          "title":  "B9 Live Casino Mobile Pakistan | H5 Category and Table Guide",
+                          "description":  "B9 live casino mobile Pakistan guide for H5 category access, table game navigation, safety reminders and related game pages.",
+                          "url":  "/live-casino-mobile/"
+                      },
+                      {
+                          "title":  "B9 Andar Bahar Roman Urdu Pakistan | Basic Game Guide",
+                          "description":  "B9 Andar Bahar Roman Urdu Pakistan guide explaining basic category terms, mobile access, safety reminders and related table games.",
+                          "url":  "/andar-bahar-roman-urdu/"
+                      }
+                  ],
+        "Count":  28
     },
     {
-        "title":  "B9 Andar Bahar Pakistan | Live Card Game Guide",
-        "description":  "B9 Andar Bahar Pakistan guide covering live card game basics and responsible play notes.",
-        "url":  "/andar-bahar/"
+        "title":  "B9game Cricket Live Pakistan | H5 Sports Guide",
+        "description":  "B9game cricket live Pakistan guide for H5 sports access, match-day checks, mobile layout and safe Register Now path.",
+        "url":  "/b9game-cricket-live-pakistan/"
     },
     {
-        "title":  "B9 Aviator Pakistan | Game Basics and Risk Guide",
-        "description":  "B9 Aviator Pakistan guide explaining basics, risk reminders and category navigation.",
-        "url":  "/aviator/"
-    },
-    {
-        "title":  "B9 Baccarat Pakistan | Live Casino Beginner Guide",
-        "description":  "B9 Baccarat Pakistan live casino guide with table basics, responsible play and FAQ.",
-        "url":  "/baccarat/"
-    },
-    {
-        "title":  "Contact b9gameonlinepk.com | Support and Site Feedback",
-        "description":  "Contact information for b9gameonlinepk.com with guidance for account support, site feedback and safe communication.",
-        "url":  "/contact/"
-    },
-    {
-        "title":  "B9 Cricket Pakistan | Sports Guide and Match Page SEO",
-        "description":  "B9 Cricket Pakistan guide for sports category, match pages, odds explanation and responsible use.",
-        "url":  "/cricket/"
-    },
-    {
-        "title":  "B9 Dragon Tiger Pakistan | Live Game Basics",
-        "description":  "B9 Dragon Tiger Pakistan guide for live game basics, table terms and responsible access.",
-        "url":  "/dragon-tiger/"
-    },
-    {
-        "title":  "b9gameonlinepk.com FAQ | B9 Pakistan Questions",
-        "description":  "B9 Pakistan FAQ hub for b9gameonlinepk.com with registration, app, APK, wallet, support and safety questions.",
-        "url":  "/faq/"
-    },
-    {
-        "title":  "B9 Fishing Games Pakistan | Beginner Guide",
-        "description":  "B9 Fishing Games Pakistan beginner guide covering mechanics, visual game index and responsible tips.",
-        "url":  "/fishing/"
-    },
-    {
-        "title":  "B9 Football Pakistan | Odds and Match Guide",
-        "description":  "B9 Football Pakistan guide explaining football markets, 1x2 odds and match preview page structure.",
-        "url":  "/football/"
-    },
-    {
-        "title":  "b9gameonlinepk.com Guides | Complete B9 Pakistan Content Hub",
-        "description":  "Complete B9 Pakistan guide index for b9gameonlinepk.com with account, app, APK, wallet, support and game topics.",
-        "url":  "/guides/"
-    },
-    {
-        "title":  "B9 Hot Games Pakistan | Trending Game Guide",
-        "description":  "B9 Hot Games Pakistan guide for trending lobby categories, game basics and responsible play.",
-        "url":  "/hot-games/"
-    },
-    {
-        "title":  "B9 Live Casino Pakistan | Baccarat, Dragon Tiger and Andar Bahar",
-        "description":  "B9 Live Casino Pakistan guide for baccarat, dragon tiger, andar bahar and live table basics.",
-        "url":  "/live-casino/"
-    },
-    {
-        "title":  "B9 Mines Pakistan | Beginner Rules and Safety Notes",
-        "description":  "B9 Mines Pakistan beginner guide with rules overview, risk notes and related hot games.",
-        "url":  "/mines/"
-    },
-    {
-        "title":  "B9 Poker and Card Games Pakistan | Teen Patti and Cards",
-        "description":  "B9 Poker and card games guide for Teen Patti, card rooms, rules and beginner basics.",
-        "url":  "/poker/"
-    },
-    {
-        "title":  "Privacy Policy | b9gameonlinepk.com",
-        "description":  "Privacy policy for b9gameonlinepk.com explaining basic site logs, external registration links and no password collection.",
-        "url":  "/privacy-policy/"
-    },
-    {
-        "title":  "Responsible Access | b9gameonlinepk.com",
-        "description":  "Responsible 18+ access guidance for b9gameonlinepk.com with safety reminders, risk notes and support direction.",
-        "url":  "/responsible-access/"
-    },
-    {
-        "title":  "B9 Slots Pakistan | Slot Game Guide",
-        "description":  "B9 Slots Pakistan guide covering providers, themes, budget reminders and responsible play.",
-        "url":  "/slots/"
-    },
-    {
-        "title":  "B9 Sports Pakistan | Cricket and Football Odds Guide",
-        "description":  "B9 Sports Pakistan guide for cricket, football, 1x2 odds and event preview pages.",
-        "url":  "/sports/"
-    },
-    {
-        "title":  "Terms of Use | b9gameonlinepk.com",
-        "description":  "Terms of use for b9gameonlinepk.com covering informational content, 18+ access and external registration links.",
-        "url":  "/terms/"
-    },
-    {
-        "title":  "b9gameonlinepk.com Updates | B9 Pakistan Content Log",
-        "description":  "Update log for b9gameonlinepk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
-        "url":  "/updates/"
-    },
-    {
-        "title":  "B9 Online Games Pakistan Today Check | Sports, Slots and Live Categories",
-        "description":  "Daily B9 online games Pakistan check for sports, slots, live casino, fishing, poker and mobile category navigation.",
-        "url":  "/today-games-check/"
-    },
-    {
-        "title":  "B9 Cricket Match Guide Pakistan | Sports Category and H5 Notes",
-        "description":  "B9 cricket match guide for Pakistan users covering sports category navigation, H5 access, match-page updates and responsible 18+ reminders.",
-        "url":  "/cricket-match-guide/"
-    },
-    {
-        "title":  "B9 Slots Games List Pakistan | Hot Games and Mobile Lobby Guide",
-        "description":  "B9 slots games list Pakistan guide for hot games, slot category navigation, mobile lobby checks and responsible access.",
-        "url":  "/slots-games-list/"
-    },
-    {
-        "title":  "B9 Mobile Games H5 Pakistan | Browser Access and Category Guide",
-        "description":  "B9 mobile games H5 Pakistan guide for browser access, category navigation, responsive layout and register path.",
-        "url":  "/mobile-games-h5/"
-    },
-    {
-        "title":  "B9 Cricket Sports H5 Pakistan | Mobile Category Guide",
-        "description":  "B9 cricket sports H5 Pakistan guide for mobile category access, sports navigation, match-page freshness and responsible reminders.",
-        "url":  "/cricket-sports-h5/"
-    },
-    {
-        "title":  "B9 Live Casino Mobile Pakistan | H5 Category and Table Guide",
-        "description":  "B9 live casino mobile Pakistan guide for H5 category access, table game navigation, safety reminders and related game pages.",
-        "url":  "/live-casino-mobile/"
-    },
-    {
-        "title":  "B9 Andar Bahar Roman Urdu Pakistan | Basic Game Guide",
-        "description":  "B9 Andar Bahar Roman Urdu Pakistan guide explaining basic category terms, mobile access, safety reminders and related table games.",
-        "url":  "/andar-bahar-roman-urdu/"
+        "title":  "B9game H5 Online Games Pakistan | Mobile Play Guide",
+        "description":  "B9game H5 online games Pakistan guide for mobile browser access, game categories, hot games and safe registration path.",
+        "url":  "/b9game-h5-online-games-pakistan/"
     }
 ]
