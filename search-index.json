@@ -5,9 +5,20 @@
                           "value":  [
                                         {
                                             "value":  [
-                                                          "@{value=                           ; Count=28}",
-                                                          "@{title=B9game Cricket Live Pakistan | H5 Sports Guide; description=B9game cricket live Pakistan guide for H5 sports access, match-day checks, mobile layout and safe Register Now path.; url=/b9game-cricket-live-pakistan/}",
-                                                          "@{title=B9game H5 Online Games Pakistan | Mobile Play Guide; description=B9game H5 online games Pakistan guide for mobile browser access, game categories, hot games and safe registration path.; url=/b9game-h5-online-games-pakistan/}"
+                                                          {
+                                                              "value":  "@{value=                           ; Count=28} @{title=B9game Cricket Live Pakistan | H5 Sports Guide; description=B9game cricket live Pakistan guide for H5 sports access, match-day checks, mobile layout and safe Register Now path.; url=/b9game-cricket-live-pakistan/} @{title=B9game H5 Online Games Pakistan | Mobile Play Guide; description=B9game H5 online games Pakistan guide for mobile browser access, game categories, hot games and safe registration path.; url=/b9game-h5-online-games-pakistan/}",
+                                                              "Count":  3
+                                                          },
+                                                          {
+                                                              "title":  "B9game Cricket Kaise Khele | Pakistan H5 Guide",
+                                                              "description":  "Roman Urdu B9game cricket guide for Pakistan users covering sports category navigation, H5 mobile access and responsible match-page reading.",
+                                                              "url":  "/b9game-cricket-kaise-khele/"
+                                                          },
+                                                          {
+                                                              "title":  "B9game H5 Games Kaise Open Kare | Mobile Pakistan Guide",
+                                                              "description":  "Roman Urdu B9game H5 games guide for Pakistan mobile users covering browser access, category navigation and responsive game pages.",
+                                                              "url":  "/b9game-h5-games-kaise-open-kare/"
+                                                          }
                                                       ],
                                             "Count":  3
                                         },
@@ -20,50 +31,45 @@
                                             "title":  "B9game H5 Games Kaise Open Kare | Mobile Pakistan Guide",
                                             "description":  "Roman Urdu B9game H5 games guide for Pakistan mobile users covering browser access, category navigation and responsive game pages.",
                                             "url":  "/b9game-h5-games-kaise-open-kare/"
+                                        },
+                                        {
+                                            "title":  "B9game H5 Pakistan Guides | Mobile Games, Cricket and Live Play",
+                                            "url":  "/b9game-h5-guides/",
+                                            "description":  "B9game H5 Pakistan topic hub for mobile browser settings, cricket, live games, hot games and Android-friendly H5 play.",
+                                            "keywords":  [
+                                                             "B9game",
+                                                             "B9Game",
+                                                             "b9",
+                                                             "Pakistan",
+                                                             "B9game H5 games Pakistan"
+                                                         ]
+                                        },
+                                        {
+                                            "title":  "B9game H5 Lag Fix Pakistan | Mobile Browser Speed Checklist",
+                                            "url":  "/b9game-h5-lag-fix-pakistan/",
+                                            "description":  "B9game H5 lag fix Pakistan guide for mobile browser users covering network stability, cache, browser version, phone storage and live game loading.",
+                                            "keywords":  [
+                                                             "B9game",
+                                                             "B9Game",
+                                                             "b9",
+                                                             "Pakistan",
+                                                             "B9game H5 lag fix Pakistan"
+                                                         ]
                                         }
                                     ],
-                          "Count":  3
+                          "Count":  5
                       },
                       {
-                          "title":  "B9game Cricket Kaise Khele | Pakistan H5 Guide",
-                          "description":  "Roman Urdu B9game cricket guide for Pakistan users covering sports category navigation, H5 mobile access and responsible match-page reading.",
-                          "url":  "/b9game-cricket-kaise-khele/"
-                      },
-                      {
-                          "title":  "B9game H5 Games Kaise Open Kare | Mobile Pakistan Guide",
-                          "description":  "Roman Urdu B9game H5 games guide for Pakistan mobile users covering browser access, category navigation and responsive game pages.",
-                          "url":  "/b9game-h5-games-kaise-open-kare/"
-                      },
-                      {
-                          "title":  "B9game H5 Pakistan Guides | Mobile Games, Cricket and Live Play",
-                          "url":  "/b9game-h5-guides/",
-                          "description":  "B9game H5 Pakistan topic hub for mobile browser settings, cricket, live games, hot games and Android-friendly H5 play.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "B9game H5 games Pakistan"
-                                       ]
-                      },
-                      {
-                          "title":  "B9game H5 Lag Fix Pakistan | Mobile Browser Speed Checklist",
-                          "url":  "/b9game-h5-lag-fix-pakistan/",
-                          "description":  "B9game H5 lag fix Pakistan guide for mobile browser users covering network stability, cache, browser version, phone storage and live game loading.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "B9game H5 lag fix Pakistan"
-                                       ]
+                          "title":  "B9game H5 vs APK Pakistan | Mobile Access Comparison",
+                          "description":  "B9game H5 vs APK Pakistan guide comparing mobile browser access, Android install needs, sports pages, game categories and safe Register Now flow.",
+                          "url":  "/b9game-h5-vs-apk-pakistan/"
                       }
                   ],
-        "Count":  5
+        "Count":  2
     },
     {
-        "title":  "B9game H5 vs APK Pakistan | Mobile Access Comparison",
-        "description":  "B9game H5 vs APK Pakistan guide comparing mobile browser access, Android install needs, sports pages, game categories and safe Register Now flow.",
-        "url":  "/b9game-h5-vs-apk-pakistan/"
+        "title":  "B9game H5 Not Opening Pakistan | Mobile Browser Fix Guide",
+        "description":  "B9game H5 not opening Pakistan guide for mobile browser loading, cache, data network, sports pages and game category access.",
+        "url":  "/b9game-h5-not-opening-pakistan/"
     }
 ]
