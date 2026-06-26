@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "b9gameonlinepk.com",
+  "brand": "B9 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "P1",
+  "owner": "core-team",
+  "repoUrl": "https://github.com/alexgkbet888-web/b9gameonlinepk.com",
+  "deployUrl": "https://b9gameonlinepk.com/",
+  "siteType": "h5",
+  "positioning": "B9game H5 online games, sports, cricket and Aviator guide for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "B9game",
+    "B9Game",
+    "b9 online",
+    "B9game online Pakistan"
+  ],
+  "secondaryKeywords": [
+    "B9 aviator",
+    "B9 sports",
+    "B9 cricket",
+    "B9 H5 games"
+  ],
+  "competitors": [
+    "https://b9gameapp.com/",
+    "https://b9game.net/",
+    "https://b9game.io/"
+  ],
+  "technical": {
+    "sitemapUrl": "https://b9gameonlinepk.com/sitemap.xml",
+    "robotsUrl": "https://b9gameonlinepk.com/robots.txt",
+    "feedUrl": "https://b9gameonlinepk.com/feed.xml",
+    "canonicalRoot": "https://b9gameonlinepk.com/",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:b9gameonlinepk.com",
+    "connected": true
+  },
+  "contentPlan": {
+    "homepageAngle": "H5 mobile game and sports intent",
+    "clusters": ["h5", "sports", "cricket", "aviator", "mobile-support"],
+    "weeklyUpdateTarget": 3
+  },
+  "lastUpdated": "2026-06-27"
+}
