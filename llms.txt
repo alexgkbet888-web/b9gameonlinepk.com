@@ -1,16 +1,21 @@
-# b9gameonlinepk.com
+# B9 Game Online Pakistan Guide
 
-This site provides B9 Pakistan informational guides for adult users only.
+> Pakistan H5, browser access, login and gameplay navigation guides for adult users.
 
-Important URLs:
-- https://b9gameonlinepk.com/
-- https://b9gameonlinepk.com/sitemap.xml
-- https://b9gameonlinepk.com/feed.xml
-- https://b9gameonlinepk.com/responsible-access/
-- https://b9gameonlinepk.com/privacy-policy/
+## Core Guides
 
-Content rules:
-- Pakistan market only.
-- No private account data is collected.
-- Register Now links point to the provided B9 registration route.
-- Account support should use verified support shown inside the B9 product.
+- [Online guide home](https://b9gameonlinepk.com/): Main H5 and browser-access hub.
+- [How to play](https://b9gameonlinepk.com/how-to-play/): Browser and account navigation steps.
+- [Login help](https://b9gameonlinepk.com/login-help/): Common login and session troubleshooting.
+- [FAQ](https://b9gameonlinepk.com/faq/): Focused online-access questions and answers.
+
+## Discovery
+
+- [XML sitemap](https://b9gameonlinepk.com/sitemap.xml): Complete canonical URL inventory.
+- [RSS feed](https://b9gameonlinepk.com/feed.xml): Recently updated content.
+
+## Usage Notes
+
+- Content is informational and intended for adult Pakistan users.
+- No private account data is collected by this guide site.
+- Registration links use the configured B9 product route; support identity should be verified inside the product.
